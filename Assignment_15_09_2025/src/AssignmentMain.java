@@ -1,6 +1,6 @@
-import com.karthik.assignment.employees.Manager;
-import com.karthik.assignment.employees.Developer;
-import com.karthik.assignment.utilities.EmployeeUtilities;
+import com.hanu.assignment.employees.Manager;
+import com.hanu.assignment.employees.Developer;
+import com.hanu.assignment.utilities.EmployeeUtilities;
 
 /**
  * Main class to test Employee system
