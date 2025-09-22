@@ -1,4 +1,4 @@
-package com.karthik.assignment.employees;
+package com.hanu.assignment.employees;
 
 /**
  * Employee base class with private attributes
