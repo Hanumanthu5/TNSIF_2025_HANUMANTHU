@@ -1,6 +1,6 @@
-package com.karthik.assignment.utilities;
+package com.hanu.assignment.utilities;
 
-import com.karthik.assignment.employees.Employee;
+import com.hanu.assignment.employees.Employee;
 
 /**
  * Utility class for Employee operations
